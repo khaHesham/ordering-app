@@ -1,0 +1,15 @@
+.git
+.gitignore
+.dockerignore
+
+# build dependancies
+dist.do
+node_modules
+
+# Environment [senstive data]
+*.env
+
+# Misc
+.eslintrc.js
+.prettierrc.js
+Readme.md
